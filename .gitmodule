@@ -1,0 +1,4 @@
+[submodule "themes/Chic"]
+    path = themes/Chic
+    # url = https://github.com/example/chic.git
+    url = https://github.com/YukiWu7/Chic.git
