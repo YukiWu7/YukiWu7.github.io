@@ -7,7 +7,7 @@ date: 2023-12-11 23:57:04
 
 just to see how things looks like here
 
-![](/home/t/wyq/yuki-utopia/themes/Chic/source/image/avatar.jpg)
+![](/games/avatar.jpg)
 
 
 
