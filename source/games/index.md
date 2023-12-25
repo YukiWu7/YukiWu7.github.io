@@ -5,9 +5,9 @@ date: 2023-12-11 23:57:04
 # layout: tag
 ---
 
-just to see how things looks like here
+1. Rise
 
-![](/games/thumbnail_opt.jpg)
+![](/games/rise.jpg)
 
 
 
