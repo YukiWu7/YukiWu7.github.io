@@ -7,7 +7,7 @@ date: 2023-12-11 23:57:04
 
 just to see how things looks like here
 
-![](/games/avatar.jpg)
+![](/games/thumbnail_opt.jpg)
 
 
 
