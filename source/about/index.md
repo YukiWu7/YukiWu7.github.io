@@ -9,4 +9,4 @@ Hi! I am Yuki Wu, a senior student majoring in Computer Science in the departmen
 
 My hobbies are dancing, photographing, and watching movies. 
 
-![](/about/disney.jpg){height = 50%}
+<img src="disney.jpg" style="zoom:50%;" />
