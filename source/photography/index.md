@@ -46,17 +46,17 @@ layout: photography
 
 ### New York Streets
 
-08.10.2023 - 8.15.2023
-
-<img src="ny_street1.jpg" width="50%" height="50%" />
-
-
+08.15.2023
 
 <img src="ny_street2.jpg" width="50%" height="50%" />
 
-
+08.12.2023
 
 <img src="ny_summer_street.jpg" width="50%" height="50%" />
+
+08.10.2023
+
+<img src="ny_street1.jpg" width="50%" height="50%" />
 
 ### Brooklyn Bridge
 
