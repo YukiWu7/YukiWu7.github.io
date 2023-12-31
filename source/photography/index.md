@@ -17,6 +17,12 @@ see if this makes the page
 
 11.25.2023
 
+<div style="display: flex;">
+  <img src="tipsy1.jpg" width="50%" height="50%" />  <img src="tipsy2.jpg" width="50%" height="50%" />
+</div>
+
+
+
 <img src="tipsy1.jpg" width="50%" height="50%" /><img src="tipsy2.jpg" width="50%" height="50%" />
 
 ### Step on Rainbow
