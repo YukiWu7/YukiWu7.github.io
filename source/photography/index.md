@@ -38,7 +38,7 @@ layout: photography
 
 <img src="sunshine.jpg" width="50%" height="50%" />
 
-### Bird Station
+### Oculus Center
 
 08.11.2023
 
