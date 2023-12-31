@@ -17,13 +17,9 @@ see if this makes the page
 
 11.25.2023
 
-<div style="display: flex; margin-right: 10px;">
-  <img src="tipsy1.jpg" width="50%" height="50%" />
-  <img src="tipsy2.jpg" width="50%" height="50%" />
-</div>
-
-| <img src="tipsy1.jpg" /> | <img src="tipsy2.jpg"  /> |
-| ------------------------ | ------------------------- |
+<center class="half">
+  <img src="tipsy1.jpg" width="50%" height="50%" /><img src="tipsy2.jpg" width="50%" height="50%" />
+</center>
 
 
 
