@@ -5,8 +5,6 @@ date: 2023-12-11 23:57:04
 layout: photography
 ---
 
-see if this makes the page
-
 ### First Snow
 
 11.27.2023
@@ -17,11 +15,10 @@ see if this makes the page
 
 11.25.2023
 
-<center class="half">
-  <img src="tipsy1.jpg" width="50%" height="50%" /><img src="tipsy2.jpg" width="50%" height="50%" />
-</center>
-
-
+<div style="display: flex; justify-content: center; margin-right: 10px;">
+  <img src="tipsy1.jpg" width="50%" height="50%" />
+  <img src="tipsy2.jpg" width="50%" height="50%" />
+</div>
 
 ### Step on Rainbow
 
